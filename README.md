@@ -1,8 +1,9 @@
 ![ProfileBanner](https://github.com/RiyanPC/RiyanPC/blob/main/baner%20verde.jpg)
 
 ### About Mee >:)
+![FunnyGif](https://github.com/RiyanPC/RiyanPC/blob/main/C7HT.gif)
 Buenas! Riyan tu servidor te saluda uwu <br/>
-Que bueno que alguien al menos revide mi perfil xd <br/> ![FunnyGif](https://github.com/RiyanPC/RiyanPC/blob/main/C7HT.gif)
+Que bueno que alguien al menos revide mi perfil xd <br/>
 Dejaré el view count aquí al lado |> <br/>
 </br>
 Soy un chico apasionado con la tecnología, aún soy estudiante</br>
@@ -11,7 +12,8 @@ programador en este mundo cada vez más automatizado.
 
 
 - 🎢 Profile Visitors Count:  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=RiyanPC.id&RiyanPC_color=green&right_color=red)
+![Visitas en mi perfil](https://komarev.com/ghpvc/?username=RiyanPC&color=blue&label=Visitas)
+
 <br/>
 
 <details>
