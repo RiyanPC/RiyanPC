@@ -1,9 +1,11 @@
 ![ProfileBanner](https://github.com/RiyanPC/RiyanPC/blob/main/baner%20verde.jpg)
 
-### About me🧑:
-I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
-I have done Internship as a FullStack Developer as well as Website Tester.<br/>
-I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
+### Chaos CC >:)
+Chaos has opened this new world<br/>
+And i will show you to you all<br/>
+Let violence crush your blood and your bones <br/>
+Cry because it's the last thing you can do.
+
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
