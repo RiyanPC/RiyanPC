@@ -1,4 +1,4 @@
-![ProfileBanner](https://github.com/RiyanPC/RiyanPC/blob/main/baner%20verde.jpg)
+<!-- ![ProfileBanner](https://github.com/RiyanPC/RiyanPC/blob/main/baner%20verde.jpg) -->
 
 ### About Mee >:)
 ![FunnyGif](https://github.com/RiyanPC/RiyanPC/blob/main/C7HT.gif)</br>
@@ -9,7 +9,8 @@ Dejaré el view count aquí al lado |> <br/>
 Soy un chico apasionado con la tecnología, aún soy estudiante</br>
 y estoy dispuesto a dar los siguientes pasos para ser un gran </br>
 programador en este mundo cada vez más automatizado.
-
+</br>
+Me da wea seguir editando esto, lo seguiré mañana..
 
 - 🎢 Profile Visitors Count:
   <!-- ![Visitas en mi perfil](https://komarev.com/ghpvc/?username=RiyanPC&color=blue&label=Visitas) -->
