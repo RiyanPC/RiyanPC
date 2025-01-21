@@ -1,4 +1,4 @@
-[![ProfileBanner]([https://github.com/RiyanPC/RiyanPC/blob/main/baner.png]])
+[![ProfileBanner](https://github.com/RiyanPC/RiyanPC/blob/main/baner.png)
 
 ### About me🧑:
 I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
