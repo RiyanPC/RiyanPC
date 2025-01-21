@@ -1,4 +1,4 @@
-<!-- ![ProfileBanner](https://github.com/RiyanPC/RiyanPC/blob/main/baner%20verde.jpg) -->
+ ![ProfileBanner](https://github.com/RiyanPC/RiyanPC/blob/main/baner%20verde.jpg) 
 
 ### About Mee >:)
 ![FunnyGif](https://github.com/RiyanPC/RiyanPC/blob/main/C7HT.gif)</br>
@@ -14,6 +14,7 @@ Me da wea seguir editando esto, lo seguiré mañana..
 
 - 🎢 Profile Visitors Count:
   <!-- ![Visitas en mi perfil](https://komarev.com/ghpvc/?username=RiyanPC&color=blue&label=Visitas) -->
+  --
 
 <br/>
 
