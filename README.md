@@ -6,8 +6,13 @@ And i will show you to you all<br/>
 Let violence crush your blood and your bones <br/>
 Cry because it's the last thing you can do.
 
+<div id="choto">
 ![FunnyGif](https://github.com/RiyanPC/RiyanPC/blob/main/C7HT.gif)
-
+</div>
+<styles>
+  .choto
+  padding: 1em;
+</styles>
 - 🎢 Profile Visitors Count:  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=RiyanPC.id&RiyanPC_color=green&right_color=red)
 <br/>
