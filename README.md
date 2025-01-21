@@ -11,8 +11,8 @@ y estoy dispuesto a dar los siguientes pasos para ser un gran </br>
 programador en este mundo cada vez más automatizado.
 
 
-- 🎢 Profile Visitors Count:  
-![Visitas en mi perfil](https://komarev.com/ghpvc/?username=RiyanPC&color=blue&label=Visitas)
+- 🎢 Profile Visitors Count:
+  <!-- ![Visitas en mi perfil](https://komarev.com/ghpvc/?username=RiyanPC&color=blue&label=Visitas) -->
 
 <br/>
 
