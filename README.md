@@ -2,7 +2,7 @@
 
 ### About Mee >:)
 Buenas! Riyan tu servidor te saluda uwu <br/>
-Que bueno que alguien al menos revide mi perfil xd <br/>
+Que bueno que alguien al menos revide mi perfil xd <br/> ![FunnyGif](https://github.com/RiyanPC/RiyanPC/blob/main/C7HT.gif)
 Dejaré el view count aquí al lado |> <br/>
 </br>
 Soy un chico apasionado con la tecnología, aún soy estudiante</br>
@@ -10,7 +10,6 @@ y estoy dispuesto a dar los siguientes pasos para ser un gran </br>
 programador en este mundo cada vez más automatizado.
 
 
-![FunnyGif](https://github.com/RiyanPC/RiyanPC/blob/main/C7HT.gif)
 - 🎢 Profile Visitors Count:  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=RiyanPC.id&RiyanPC_color=green&right_color=red)
 <br/>
