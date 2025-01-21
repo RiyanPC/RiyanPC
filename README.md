@@ -6,9 +6,9 @@ And i will show you to you all<br/>
 Let violence crush your blood and your bones <br/>
 Cry because it's the last thing you can do.
 
-
+<styles align="right">
 ![FunnyGif](https://github.com/RiyanPC/RiyanPC/blob/main/C7HT.gif)
-
+</styles>
 - 🔭 I’m currently working on Frontend Web Development & Android Development.
 - 🌱 I’m currently learning Backend Development.
 - 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
@@ -139,27 +139,4 @@ ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
 <a href="https://github.com/Davekibh/Quiz-Admin-App">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
 </a>
-
-### My WakaTime Stats 📊:
-
-<!--START_SECTION:waka-->
-```text
-Week: 07 January, 2021 - 14 January, 2021
-
-HTML         2 hrs 3 mins    ████████████▒░░░░░░░░░░░░   49.78 % 
-JavaScript   1 hr 55 mins    ███████████▓░░░░░░░░░░░░░   46.45 % 
-Text         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-```
-<!--END_SECTION:waka-->
-
-<div align="center">
-  
-
-### Show ❤️ by 🌟 my [repositories](https://github.com/Davekibh?tab=repositories)!
-
-</div>
------
-Credits: [Davekibh](https://github.com/Davekibh)
-
-Last Edited on: 15/01/2021
 
