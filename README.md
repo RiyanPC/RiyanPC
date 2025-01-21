@@ -33,6 +33,6 @@ Languages and Tools🛠:
 
 <br/>
 
-!<a href="https://t.me/Dave_bhandari">
+!--<a href="https://t.me/Dave_bhandari">
   <img align="left" alt="Dave's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
-</a>
+</a>--!
