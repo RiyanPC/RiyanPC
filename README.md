@@ -7,7 +7,7 @@ Let violence crush your blood and your bones <br/>
 Cry because it's the last thing you can do.
 
 
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
+<iframe src="https://gifer.com/embed/C7HT" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">a través de GIFER</a></p>
 
 - 🔭 I’m currently working on Frontend Web Development & Android Development.
 - 🌱 I’m currently learning Backend Development.
