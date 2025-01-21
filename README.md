@@ -12,7 +12,7 @@ programador en este mundo cada vez más automatizado.
 
 
 - 🎢 Profile Visitors Count:  
-![Visitas en mi perfil](https://komarev.com/ghpvc/?username=RiyanPC&color=blue&label=Visitas)
+![Visitas en mi perfil](https://komarev.com/ghpvc/?username=&color=blue&label=Visitas)
 
 <br/>
 
