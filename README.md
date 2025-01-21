@@ -1,7 +1,7 @@
 ![ProfileBanner](https://github.com/RiyanPC/RiyanPC/blob/main/baner%20verde.jpg)
 
 ### About Mee >:)
-![FunnyGif](https://github.com/RiyanPC/RiyanPC/blob/main/C7HT.gif)
+![FunnyGif](https://github.com/RiyanPC/RiyanPC/blob/main/C7HT.gif)</br>
 Buenas! Riyan tu servidor te saluda uwu <br/>
 Que bueno que alguien al menos revide mi perfil xd <br/>
 Dejaré el view count aquí al lado |> <br/>
