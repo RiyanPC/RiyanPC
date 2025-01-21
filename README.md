@@ -2,15 +2,13 @@
 
 ### About Mee >:)
 ![FunnyGif](https://github.com/RiyanPC/RiyanPC/blob/main/C7HT.gif)</br>
-Buenas! Riyan tu servidor te saluda uwu <br/>
+Buenas! Soy Riyan tengo 17 años y seré tu servidor. <br/>
 Que bueno que alguien al menos revide mi perfil xd <br/>
-Dejaré el view count aquí al lado |> <br/>
 </br>
 Soy un chico apasionado con la tecnología, aún soy estudiante</br>
-y estoy dispuesto a dar los siguientes pasos para ser un gran </br>
-programador en este mundo cada vez más automatizado.
+y estoy dispuesto a dar los siguientes pasos para ser un gran programador
 </br>
-Me da wea seguir editando esto, lo seguiré mañana..
+Me da wea seguir editando esto faltan divs e imagenes que aun ni edito, lo seguiré mañana..
 
 - 🎢 Profile Visitors Count:
   <!-- ![Visitas en mi perfil](https://komarev.com/ghpvc/?username=RiyanPC&color=blue&label=Visitas) -->
