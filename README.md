@@ -8,7 +8,7 @@ Que bueno que alguien al menos revide mi perfil xd <br/>
 Soy un chico apasionado con la tecnología, aún soy estudiante</br>
 y estoy dispuesto a dar los siguientes pasos para ser un gran programador
 </br>
-Me da wea seguir editando esto faltan divs e imagenes que aun ni edito, lo seguiré mañana..
+Me da wea seguir editando esto :(
 
 [R audio](https://github.com/RiyanPC/RiyanPC/blob/main/Decaying%20Winter%20-%20Calm%20Night%20remix%20(ft.%20Deepwoken%20and%20TDS)%20(8k%20sub%20thing).mp3)
 
