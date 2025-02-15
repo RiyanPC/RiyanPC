@@ -2,13 +2,8 @@
 
 ### About Mee >:)
 ![FunnyGif](https://github.com/RiyanPC/RiyanPC/blob/main/C7HT.gif)</br>
-Buenas! Soy Riyan tengo 17 años y seré tu servidor. <br/>
-Que bueno que alguien al menos revide mi perfil xd <br/>
-</br>
-Soy un chico apasionado con la tecnología, aún soy estudiante</br>
-y estoy dispuesto a dar los siguientes pasos para ser un gran programador
-</br>
-Me da wea seguir editando esto :(
+Buenas! Soy Riyan tengo 17 años [PENDIENTE] <br/>
+
 
 [R audio](https://github.com/RiyanPC/RiyanPC/blob/main/Decaying%20Winter%20-%20Calm%20Night%20remix%20(ft.%20Deepwoken%20and%20TDS)%20(8k%20sub%20thing).mp3)
 
