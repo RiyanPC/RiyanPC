@@ -9,8 +9,8 @@ Buenas! Soy Riyan tengo 17 años [blah blah] <br/>
 
 
 - 🎢 Profile Visitors Count:
-  [Visitas en mi perfil](https://komarev.com/ghpvc/?username=RiyanPC&color=blue&label=Visitas)
-  --
+![Visitas en mi perfil](https://komarev.com/ghpvc/?username=RiyanPC&color=blue&label=Visitas)!
+
 
 <br/>
 
