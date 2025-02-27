@@ -2,7 +2,7 @@
 
 ### About Mee >:)
 ![FunnyGif](https://github.com/RiyanPC/RiyanPC/blob/main/C7HT.gif)</br>
-Buenas! Soy Riyan tengo 17 años [PENDIENTE] <br/>
+Buenas! Soy Riyan tengo 17 años [blah blah] <br/>
 
 
 [R audio](https://github.com/RiyanPC/RiyanPC/blob/main/Decaying%20Winter%20-%20Calm%20Night%20remix%20(ft.%20Deepwoken%20and%20TDS)%20(8k%20sub%20thing).mp3)
