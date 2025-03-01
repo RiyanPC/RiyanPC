@@ -2,7 +2,8 @@
 ![Que estás viendo?](https://i.pinimg.com/736x/62/56/4a/62564a92114473a43a3e6370538ae618.jpg)
 
 <!-- About Mee >:) -->
-Buenas! Soy Rider, tengo 17 años y esto es un texto -_- [blah blah]   
+Buenas! Soy Rider, tengo 17 años y esto es un texto -_-[blah blah]   </br>
+La imagen de bunny girl es mi fondo de pantalla por si les interesa :^
 
 ![FunnyGif](https://github.com/RiyanPC/RiyanPC/blob/main/C7HT.gif)</br>
 
