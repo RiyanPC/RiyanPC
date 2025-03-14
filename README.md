@@ -1,10 +1,8 @@
 <!-- ![ProfileBanner](https://github.com/RiyanPC/RiyanPC/blob/main/baner%20verde.jpg) -->
 ![Que estás viendo?](https://i.pinimg.com/736x/62/56/4a/62564a92114473a43a3e6370538ae618.jpg)
 
-<!-- About Mee >:) -->
-Buenas! Soy Rider, tengo 17 años y esto es un texto -_-[blah blah]   </br>
-La imagen de bunny girl es mi fondo de pantalla por si les interesa :^
 
+Chaos has opened this new world. And i will show it to you all. Let violence crush your blood and your bones. Cry! because it's the last thing you can do
 ![FunnyGif](https://github.com/RiyanPC/RiyanPC/blob/main/C7HT.gif)</br>
 
 [R audio](https://github.com/RiyanPC/RiyanPC/blob/main/Decaying%20Winter%20-%20Calm%20Night%20remix%20(ft.%20Deepwoken%20and%20TDS)%20(8k%20sub%20thing).mp3)
