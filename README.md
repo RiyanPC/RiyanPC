@@ -2,7 +2,9 @@
 ![Que estás viendo?](https://i.pinimg.com/736x/62/56/4a/62564a92114473a43a3e6370538ae618.jpg)
 
 
-Chaos has opened this new world. And i will show it to you all. Let violence crush your blood and your bones. Cry! because it's the last thing you can do
+Chaos has opened this new world. And i will show it to you all. </br> 
+Let violence crush your blood and your bones.</br>
+Cry! because it's the last thing you can do </br>
 ![FunnyGif](https://github.com/RiyanPC/RiyanPC/blob/main/C7HT.gif)</br>
 
 [R audio](https://github.com/RiyanPC/RiyanPC/blob/main/Decaying%20Winter%20-%20Calm%20Night%20remix%20(ft.%20Deepwoken%20and%20TDS)%20(8k%20sub%20thing).mp3)
