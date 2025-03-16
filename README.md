@@ -2,12 +2,10 @@
 <img src="https://github.com/RiyanPC/RiyanPC/blob/main/resources/border.png">
 </p>
   <h1 align="center">Welcome buddy!! :D </h1>
+  
 >[!TIP]
 > no confies en gatos
 
-</br>
->Hola soy Riyan
-</br>
 
 <!-- Profesor ojitos si lees esto te robé el gato xd sorry-->
 <p align="center">
