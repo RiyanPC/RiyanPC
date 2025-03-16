@@ -12,11 +12,11 @@
 <i>savana</i> , <b>cixija</b> <img src=".gif" width=10>
 <img src="https://files.catbox.moe/a12rm9.gif" width=10> <b>ENFP</b> >ヮ<
 <br> <img src="https://files.catbox.moe/tofh6d.png" width=200>
-<br> <img src="https://64.media.tumblr.com/23442ce98e6ae3a39e10d30b2bc381d9/2323f0817bbce1f4-96/s1280x1920/9453dfb5263e44d59f2f9283618d2802325eb3c5.pnj" width=400>
+<br> <img src="" width=400>
 <p align="center">
-<img src="https://i.postimg.cc/PPn4KyhD/8-B74-C5-EC-2-F1-E-4-D5-F-9487-0976-BE9-D1-DD5.gif">ㅤ <i>BEFORE YOU INT !</i>  ㅤ<img src="https://i.postimg.cc/ZWVxbhNP/D00-DBF85-666-B-4815-A380-79-B9-EB09-B41-A.gif">
+<img src="">ㅤ <i>BEFORE YOU INT !</i>  ㅤ<img src="">
 <br> <img src="https://files.catbox.moe/lymq7p.png" width=100>
-<br><a href="https://toneindicators.carrd.co/#">tags</a>!!
+
 
 
 
