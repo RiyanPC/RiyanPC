@@ -1,7 +1,7 @@
 <!-- i've left the width and heigt so you can guide by it-->
 
 <p align= "center">
-<img src="https://github.com/RiyanPC/RiyanPC/blob/main/resources/border.png" width="1200px" height="260px">
+<img src="https://github.com/RiyanPC/RiyanPC/blob/main/resources/border.png" width="1200px" height="230px">
 </p>
 <p align = "center">
   <img src = "">
