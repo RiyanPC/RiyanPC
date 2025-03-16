@@ -9,14 +9,14 @@
   --
 </p>
 
-<i>savana</i> , <b>cixija</b> <img src=".gif" width=10>
-<img src="https://files.catbox.moe/a12rm9.gif" width=10> <b>ENFP</b> >ヮ<
-<br> <img src="https://files.catbox.moe/tofh6d.png" width=200>
+<i>//</i> , <b>//</b> <img src=".gif" width=10>
+<img src="" width=10> <b>ENFP</b> //
+<br> <img src=".png" width=200>
 <br> <img src="" width=400>
 
 <p align="center">
 <img src="">ㅤ <i> // </i>  ㅤ<img src="">
-<br> <img src="https://files.catbox.moe/lymq7p.png" width=100>
+<br> <img src="png" width=100>
 </p>
 
 
