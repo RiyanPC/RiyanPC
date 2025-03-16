@@ -1,6 +1,7 @@
 <p align= "center">
 <img src="https://github.com/RiyanPC/RiyanPC/blob/main/resources/border.png">
-  <h1 style="font-size:60px;"> Welcome buddy!! :D </h1>
+<h1 style="font-size: 50px;">Mi Título Personalizado</h1>
+
 </p>
 <p align = "center">
   <img src = "">
