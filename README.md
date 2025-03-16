@@ -2,9 +2,7 @@
 <img src="https://github.com/RiyanPC/RiyanPC/blob/main/resources/border.png">
 </p>
 
->[!NOTE]
->Aqui una nota esecial
-> [!TIP]
+>[!TIP]
 > ideas
 > ss
 
