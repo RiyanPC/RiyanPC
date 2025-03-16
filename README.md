@@ -2,7 +2,7 @@
 <p align= "center"> <img src="https://github.com/RiyanPC/RiyanPC/blob/main/resources/border.png"> </p> <!-- El coso de arriba-->
   <h1 align="center">Welcome buddy!! :D </h1>
 <p align= "center">
-  <!-- <img src="https://github.com/RiyanPC/RiyanPC/blob/main/resources/border1.png"> -->
+  <img src="https://github.com/RiyanPC/RiyanPC/blob/main/resources/border1.png"> 
 </p>
 
 >[!TIP]
