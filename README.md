@@ -2,12 +2,8 @@
 <img src="https://github.com/RiyanPC/RiyanPC/blob/main/resources/border.png">
 </p>
   <h1 align="center">Welcome buddy!! :D </h1>
-<p align= "center">
-<img src="https://github.com/RiyanPC/RiyanPC/blob/main/resources/funny%20gifs/cat-noscreen.gif" width="280px" weigth ="280px">
-</p>
-
 >[!TIP]
-> No dura mucho leer todo TwT
+> no confies en gatos
 
 </br>
 >Hola soy Riyan
