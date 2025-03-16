@@ -1,6 +1,13 @@
 <p align= "center">
 <img src="https://github.com/RiyanPC/RiyanPC/blob/main/resources/border.png">
 </p>
+
+> [TIP]
+> ss
+
+
+
+
   <h1>Welcome buddy!! :D </h1>
 <p align="center">
   <img src = "https://github.com/RiyanPC/RiyanPC/blob/main/resources/last-stand-v0-ny9jti9sumza1.jpg">
