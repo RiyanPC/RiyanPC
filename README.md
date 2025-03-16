@@ -9,7 +9,7 @@
 >Hola soy Riyan
 
 <p align="center">
-  <img src = "https://github.com/RiyanPC/RiyanPC/blob/main/resources/last-stand-v0-ny9jti9sumza1.jpg">
+  <!-- <img src = "https://github.com/RiyanPC/RiyanPC/blob/main/resources/last-stand-v0-ny9jti9sumza1.jpg"> -->
   </p>
 </br>
 <p align = "center">
