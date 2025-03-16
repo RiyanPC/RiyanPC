@@ -6,6 +6,16 @@
 >[!TIP]
 > no confies en gatos
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 <!-- Profesor ojitos si lees esto te robé el gato xd sorry-->
 <p align="center">
