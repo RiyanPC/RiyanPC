@@ -3,7 +3,7 @@
 </p>
   <h1 align="center">Welcome buddy!! :D </h1>
 <p align= "center">
-<img src="https://github.com/RiyanPC/RiyanPC/blob/main/resources/funny%20gifs/funny_cat.gif" width="280px" weigth ="280px">
+<img src="https://github.com/RiyanPC/RiyanPC/blob/main/resources/funny%20gifs/cat-noscreen.gif" width="280px" weigth ="280px">
 </p>
 >[!TIP]
 >No dura mucho leer todo TwT
