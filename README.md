@@ -1,22 +1,10 @@
-<p align= "center">
-<img src="https://github.com/RiyanPC/RiyanPC/blob/main/resources/border.png">
-</p>
-  <h1 align="center">Welcome buddy!! :D </h1>
-  
+<!-- hi there, just take whaever you're looking for, thanks! -->
+<p align= "center"> <img src="https://github.com/RiyanPC/RiyanPC/blob/main/resources/border.png"> </p> <!-- El coso de arriba-->
+<h1 align="center">Welcome buddy!! :D </h1>
+<hr>
+
 >[!TIP]
-> no confies en gatos
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
+> Don't trust cats
 
 <hr>
 <!-- Profesor ojitos si lees esto te robé el gato xd sorry-->
