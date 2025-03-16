@@ -13,11 +13,7 @@
     <img src="https://user-images.githubusercontent.com/465125/151564444-07f17c75-0ad0-490b-8273-57b85c82d197.svg" />
   </a>
 </p>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-![1642320423853](https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg) -->
+
 
 <!--
 
