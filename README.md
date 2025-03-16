@@ -5,19 +5,15 @@
 <p align= "center">
 <img src="https://github.com/RiyanPC/RiyanPC/blob/main/resources/funny%20gifs/cat-noscreen.gif" width="280px" weigth ="280px">
 </p>
+
 >[!TIP]
->No dura mucho leer todo TwT
+> No dura mucho leer todo TwT
+
 </br>
 >Hola soy Riyan
-
-<p align="center">
-  <!-- <img src = "https://github.com/RiyanPC/RiyanPC/blob/main/resources/last-stand-v0-ny9jti9sumza1.jpg"> -->
-  </p>
 </br>
-<p align = "center">
-  --
-</p>
 
+<!-- Profesor ojitos si lees esto te robé el gato xd sorry-->
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img src="https://user-images.githubusercontent.com/465125/151564444-07f17c75-0ad0-490b-8273-57b85c82d197.svg" />
