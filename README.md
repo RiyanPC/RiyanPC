@@ -1,5 +1,5 @@
 <p align= "center">
- <img src="https://github.com/RiyanPC/RiyanPC/blob/main/resources/decayingwinterperks.png">
+==================================================================================================================================================
 </p>
 
 
