@@ -1,10 +1,8 @@
 <p align= "center">
 <img src="https://github.com/RiyanPC/RiyanPC/blob/main/resources/border.png">
 </p>
-<p align="center">
   <h1>Welcome buddy!! :D </h1>
   <!-- <img src = "">-->
-</p>
 
 </br>
 <p align = "center">
