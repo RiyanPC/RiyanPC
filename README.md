@@ -1,5 +1,5 @@
 <p align= "center">
-<img src="https://github.com/RiyanPC/RiyanPC/blob/main/resources/border.png" height="160px">
+<img src="https://github.com/RiyanPC/RiyanPC/blob/main/resources/border.png" height="60px">
 </p>
 <p align = "center">
   <img src = "">
