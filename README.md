@@ -1,15 +1,11 @@
 <p align= "center">
 <img src="https://github.com/RiyanPC/RiyanPC/blob/main/resources/border.png">
 </p>
-
->[!TIP]
-> ideas
-> ss
-
-
-
-
   <h1 align="center">Welcome buddy!! :D </h1>
+>[!TIP]
+> Aqui tienes un texto y esta es la descripcion
+> Hola soy Riyan
+
 <p align="center">
   <img src = "https://github.com/RiyanPC/RiyanPC/blob/main/resources/last-stand-v0-ny9jti9sumza1.jpg">
   </p>
