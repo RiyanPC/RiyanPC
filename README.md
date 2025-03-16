@@ -1,5 +1,5 @@
 <p align= "center">
- [hola mundo](https://github.com/RiyanPC/RiyanPC/blob/main/resources/decayingwinterperks.png)
+ <img src="https://github.com/RiyanPC/RiyanPC/blob/main/resources/decayingwinterperks.png">
 </p>
 
 
