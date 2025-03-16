@@ -1,6 +1,6 @@
 <p align= "center">
 <img src="https://github.com/RiyanPC/RiyanPC/blob/main/resources/border.png">
-  <p style ="font-size: 40;"> Welcome buddy!! :D </p>
+  <h1 style="font-size:4em; "> Welcome buddy!! :D </h1>
 </p>
 <p align = "center">
   <img src = "">
