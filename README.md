@@ -4,7 +4,7 @@
   <h1 align="center">Welcome buddy!! :D </h1>
   
 >[!TIP]
->Aqui tienes un texto y esta es la descripcion
+>No dura mucho leer todo TwT
 </br>
 >Hola soy Riyan
 
