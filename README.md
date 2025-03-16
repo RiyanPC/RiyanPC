@@ -2,7 +2,7 @@
 <img src="https://github.com/RiyanPC/RiyanPC/blob/main/resources/border.png">
 </p>
   <h1>Welcome buddy!! :D </h1>
-  <!-- <img src = "">-->
+  <img src = "https://github.com/RiyanPC/RiyanPC/blob/main/resources/last-stand-v0-ny9jti9sumza1.jpg">
 
 </br>
 <p align = "center">
