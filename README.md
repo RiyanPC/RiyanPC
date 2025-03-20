@@ -7,7 +7,6 @@
 >[!TIP]
 > Don't trust cats
 
-<hr>
 <!-- Profesor ojitos si lees esto te robé el gato xd sorry-->
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
