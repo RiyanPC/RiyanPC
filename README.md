@@ -1,5 +1,6 @@
-
-![Header](https://github.com/RiyanPC/RiyanPC/blob/main/resources/github-header-image.png)
+<div align="center">
+  <img src="https://github.com/RiyanPC/RiyanPC/blob/main/resources/github-header-image.png" alt="Header" />
+</div>
 
 
 <h2> Back on the top of the charts </h2>
