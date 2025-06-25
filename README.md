@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://github.com/RiyanPC/RiyanPC/blob/main/resources/github-header-image.png" alt="Header" />
+  ────୨ৎ────────୨ৎ────────୨ৎ────────୨ৎ────────୨ৎ────
 </div>
 
-────୨ৎ────────୨ৎ────────୨ৎ────────୨ৎ────
 <h2> Back on the top of the charts </h2>
 <table>
   <tr>
