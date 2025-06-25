@@ -10,7 +10,7 @@
     <th> <!----> </th>
   </tr>
   <tr>
-    <td> <img src="https://github.com/RiyanPC/RiyanPC/blob/main/resources/last-stand-v0-ny9jti9sumza1.jpg" alt="test"/></td>
+<!--     <td> <img src="https://github.com/RiyanPC/RiyanPC/blob/main/resources/last-stand-v0-ny9jti9sumza1.jpg" alt="test"/></td> -->
     <td> <!----> </td>
   </tr>
 </table>
