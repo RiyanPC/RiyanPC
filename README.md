@@ -5,7 +5,6 @@
 <div align="center">
 <h2>Si puedes imaginarlo puedes programarlo</h2>
 <p>Siempre da lo mejor de ti y lo mejor vendrá a ti :)</p>
-</div>
 
 # 🛠️ Tech Stack
 
@@ -17,3 +16,4 @@
 | **Mobile Development**  | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)                                                                                                                                                                      |
 | **Diseño**             | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)                                                                                                                                                                                                     |
 | **Productividad**       | ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)                                                                                                                                                                                                                                       |
+</div>
