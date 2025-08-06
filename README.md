@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-<h2>Si puedes imaginarlo puedes programarlo</h2>
-<p>Siempre da lo mejor de ti y lo mejor vendrá a ti :)</p>
+<h2>Si puedes imaginarlo puedes programarlo. <br>
+Siempre da lo mejor de ti y lo mejor vendrá a ti :)</h2>
 <hr>
 
 # 🛠️ Stack Técnico
