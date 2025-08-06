@@ -5,7 +5,7 @@
 <div align="center">
 <h2>Si puedes imaginarlo puedes programarlo</h2>
 <p>Siempre da lo mejor de ti y lo mejor vendrá a ti :)</p>
-</div>
+
 
 # 🛠️ Tech Stack
 
@@ -30,3 +30,4 @@
 
 ## 📝 Productividad
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+</div>
