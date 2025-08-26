@@ -19,6 +19,8 @@
 | **Gestión de Proyectos**| ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)                                                                                              |
 
 </div>
+
+<hr>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img src="https://user-images.githubusercontent.com/465125/151564444-07f17c75-0ad0-490b-8273-57b85c82d197.svg" />
