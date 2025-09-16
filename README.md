@@ -11,7 +11,6 @@
 | **Backend & DB**        | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Mobile Development**  | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) |                                                                               |
 | **Gestión de Proyectos**| ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) |
-</div>
 <hr>
 
 <h3>Si puedes imaginarlo puedes programarlo. </h2>
@@ -22,3 +21,4 @@
     <img src="https://user-images.githubusercontent.com/465125/151564444-07f17c75-0ad0-490b-8273-57b85c82d197.svg" />
   </a>
 </p>
+</div>
