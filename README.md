@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="resources/ProfileCard.png" alt="RiyanPC Banner" width="100%" />
+  <img src="resources/ProfileCard.png" alt="Rider Banner" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hola%2C+soy+RiyanPC%21;Desarrollador+Full+Stack;Apasionado+por+el+Código;Si+puedes+imaginarlo%2C+puedes+programarlo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Rider%21;Desarrollador+Full+Stack;Apasionado+por+el+Código;Si+puedes+imaginarlo%2C+puedes+programarlo" alt="Typing SVG" />
 </div>
 
 ---
@@ -14,15 +14,15 @@
   <tr>
     <td width="50%" style="vertical-align: top;">
       <p><b>¿Quién soy?</b></p>
-      <p>Soy un desarrollador apasionado por crear soluciones web robustas y estéticas. Me enfoco en el desarrollo Full Stack y siempre estoy buscando aprender nuevas tecnologías para llevar mis proyectos al siguiente nivel.</p>
+      <p>Soy Rider, un desarrollador apasionado por crear soluciones web robustas y estéticas. Me enfoco en el desarrollo Full Stack y siempre estoy buscando aprender nuevas tecnologías para llevar mis proyectos al siguiente nivel.</p>
       <p><b>Actualmente aprendiendo:</b> Node.js Avanzado y Arquitectura de Microservicios.</p>
     </td>
     <td width="50%" style="vertical-align: top;">
       <p><b>Cómo contactarme:</b></p>
       <p>
-        <a href="mailto:rakz.riyan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a><br>
-        <a href="https://instagram.com/rakz.riyan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a><br>
-        <a href="https://riyanpc.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+        <a href="mailto:rakz.riyan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a><br>
+        <a href="https://instagram.com/rakz.riyan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a><br>
+        <a href="https://riyanpc.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white" alt="Portfolio" /></a>
       </p>
     </td>
   </tr>
@@ -93,27 +93,39 @@
 ### Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RiyanPC&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyanPC&layout=compact&theme=tokyonight&hide_progress=false" alt="Top Langs" height="190" />
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=RiyanPC&theme=tokyonight&no-frame=false&no-bg=false&column=7" alt="GitHub Trophies" />
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=RiyanPC&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyanPC&layout=compact&theme=radical&hide_progress=false&hide_border=true" alt="Top Langs" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiyanPC&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-trophy.vercel.app/?username=RiyanPC&theme=radical&no-frame=true&no-bg=true&column=2" alt="GitHub Trophies" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 ### Actividad Semanal
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiyanPC&theme=tokyo-night&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiyanPC&theme=radical&area=true&hide_border=true" width="100%" />
 </div>
 
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=RiyanPC&color=blueviolet" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=RiyanPC&color=25a1b7&style=flat-square" alt="Visitor Counter" />
 </div>
 
 <p align="center">
   <i>"El éxito no es el final, el fracaso no es fatal: es el coraje de continuar lo que cuenta."</i>
 </p>
-
-
-
+  
