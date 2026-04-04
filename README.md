@@ -99,8 +99,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiyanPC&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
       </td>
       <td width="45%" align="center">
-        <img src="https://img.shields.io/github/repos/all/RiyanPC?style=for-the-badge&label=REPOSITORIOS&color=6366F1&logo=github" /><br><br>
-        <img src="https://img.shields.io/github/stars-total/RiyanPC?style=for-the-badge&label=ESTRELLAS&color=FFD700" /><br><br>
+        <img src="https://img.shields.io/github/stars/RiyanPC?style=for-the-badge&label=ESTRELLAS&color=FFD700" /><br><br>
         <img src="https://img.shields.io/github/followers/RiyanPC?style=for-the-badge&label=SEGUIDORES&color=3178C6" />
       </td>
     </tr>
