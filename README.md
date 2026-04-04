@@ -95,14 +95,13 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td width="60%" align="center">
+      <td width="55%" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiyanPC&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
       </td>
-      <td width="40%" align="center">
-        <img src="https://img.shields.io/badge/Repositorios-RiyanPC-6366F1?style=for-the-badge&logo=github" /><br>
-        <img src="https://img.shields.io/badge/Estrellas-RiyanPC-FFD700?style=for-the-badge&logoColor=black" /><br>
-        <img src="https://img.shields.io/badge/Contribuciones-RiyanPC-3DDC84?style=for-the-badge" /><br>
-        <img src="https://img.shields.io/badge/Seguidores-RiyanPC-3178C6?style=for-the-badge" />
+      <td width="45%" align="center">
+        <img src="https://img.shields.io/github/repos/all/RiyanPC?style=for-the-badge&label=REPOSITORIOS&color=6366F1&logo=github" /><br><br>
+        <img src="https://img.shields.io/github/stars-total/RiyanPC?style=for-the-badge&label=ESTRELLAS&color=FFD700" /><br><br>
+        <img src="https://img.shields.io/github/followers/RiyanPC?style=for-the-badge&label=SEGUIDORES&color=3178C6" />
       </td>
     </tr>
   </table>
@@ -114,7 +113,7 @@
 <div align="center">
   <p>Mi actividad en tiempo real directamente desde GitHub:</p>
   <a href="https://github.com/RiyanPC">
-    <img src="https://img.shields.io/badge/Ver_Actividad-GitHub-000000?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Ver_Perfil_Completo-GitHub-000000?style=for-the-badge&logo=github" />
   </a>
 </div>
 
