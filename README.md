@@ -15,7 +15,7 @@
     <td width="50%" style="vertical-align: top;">
       <p><b>¿Quién soy?</b></p>
       <p>Soy Rider, un desarrollador apasionado por crear soluciones web robustas y estéticas. Me enfoco en el desarrollo Full Stack y siempre estoy buscando aprender nuevas tecnologías para llevar mis proyectos al siguiente nivel.</p>
-      <p><b>Actualmente aprendiendo:</b> Node.js Avanzado y Arquitectura de Microservicios.</p>
+      <p><b>Actualmente aprendiendo:</b> Node.js y Typescript</p>
     </td>
     <td width="50%" style="vertical-align: top;">
       <p><b>Cómo contactarme:</b></p>
