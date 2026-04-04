@@ -90,24 +90,19 @@
 
 ---
 
-### Estadísticas de GitHub
+### Estadísticas Consolidadas
 
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=RiyanPC&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyanPC&layout=compact&theme=radical&hide_progress=false&hide_border=true" alt="Top Langs" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
+      <td width="60%" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiyanPC&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
       </td>
-      <td width="50%">
-        <img src="https://github-profile-trophy.vercel.app/?username=RiyanPC&theme=radical&no-frame=true&no-bg=true&column=2" alt="GitHub Trophies" width="100%" />
+      <td width="40%" align="center">
+        <img src="https://img.shields.io/badge/Repositorios-RiyanPC-6366F1?style=for-the-badge&logo=github" /><br>
+        <img src="https://img.shields.io/badge/Estrellas-RiyanPC-FFD700?style=for-the-badge&logoColor=black" /><br>
+        <img src="https://img.shields.io/badge/Contribuciones-RiyanPC-3DDC84?style=for-the-badge" /><br>
+        <img src="https://img.shields.io/badge/Seguidores-RiyanPC-3178C6?style=for-the-badge" />
       </td>
     </tr>
   </table>
@@ -117,7 +112,10 @@
 
 ### Actividad Semanal
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiyanPC&theme=radical&area=true&hide_border=true" width="100%" />
+  <p>Mi actividad en tiempo real directamente desde GitHub:</p>
+  <a href="https://github.com/RiyanPC">
+    <img src="https://img.shields.io/badge/Ver_Actividad-GitHub-000000?style=for-the-badge&logo=github" />
+  </a>
 </div>
 
 <div align="center">
@@ -128,4 +126,3 @@
 <p align="center">
   <i>"El éxito no es el final, el fracaso no es fatal: es el coraje de continuar lo que cuenta."</i>
 </p>
-  
