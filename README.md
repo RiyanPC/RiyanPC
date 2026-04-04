@@ -110,7 +110,10 @@
 
 ### Actividad Semanal
 <div align="center">
-  <p>Mi actividad en tiempo real directamente desde GitHub:</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiyanPC&theme=tokyo-night&area=true&hide_border=true" width="100%" />
+</div>
+<div align="center">
+  <p>Github:</p>
   <a href="https://github.com/RiyanPC">
     <img src="https://img.shields.io/badge/Ver_Perfil_Completo-GitHub-000000?style=for-the-badge&logo=github" />
   </a>
