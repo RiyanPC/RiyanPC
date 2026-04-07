@@ -1,7 +1,6 @@
 <div align="center">
   <img src="resources/ProfileCard.png" alt="Rider Banner" width="100%" />
 </div>
----
 
 ### Sobre Mí
 
