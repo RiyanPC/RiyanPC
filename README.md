@@ -1,11 +1,6 @@
 <div align="center">
   <img src="resources/ProfileCard.png" alt="Rider Banner" width="100%" />
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Rider%21;Desarrollador+Full+Stack;Apasionado+por+el+Código;Si+puedes+imaginarlo%2C+puedes+programarlo" alt="Typing SVG" />
-</div>
-
 ---
 
 ### Sobre Mí
